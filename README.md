@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Express.js, Docker, and unit testing using jest**
 
-- 📝 I regularly write articles on [My LinkedIn account](https://www.linkedin.com/in/ahmad-albarasy)
+- 📝 I regularly write posts and articles on [My LinkedIn account](https://www.linkedin.com/in/ahmad-albarasy)
 
 - 📫 How to reach me **ahmadbarasy@gmail.com**
 
